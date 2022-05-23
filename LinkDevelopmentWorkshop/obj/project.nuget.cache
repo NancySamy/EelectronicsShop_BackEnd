@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aKeMQhEZDKUZGxzIrPPnQGzWGh0bXVECo06cpmjSPIrNAAqb4HzYRTJ82JzEG65uGWm3k9iwv3X/OSzdVeOUOA==",
+  "dgSpecHash": "iNFazmqhXgrKvTz/QGwjkulhDJA9xYVnJP7mEOqUcMb0OlYKRmeOUVQwbDlZYKgDBgKKLcNzgsAovlzIkyLbvw==",
   "success": true,
-  "projectFilePath": "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.csproj",
+  "projectFilePath": "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\n.samy\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\n.samy\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

@@ -3338,11 +3338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Application\\LinkDevelopmentWorkshop.Application.csproj",
+      "projectUniqueName": "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Application\\LinkDevelopmentWorkshop.Application.csproj",
       "projectName": "LinkDevelopmentWorkshop.Application",
-      "projectPath": "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Application\\LinkDevelopmentWorkshop.Application.csproj",
+      "projectPath": "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Application\\LinkDevelopmentWorkshop.Application.csproj",
       "packagesPath": "C:\\Users\\n.samy\\.nuget\\packages\\",
-      "outputPath": "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Application\\obj\\",
+      "outputPath": "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3365,8 +3365,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Repo\\LinkDevelopmentWorkshop.Repo.csproj": {
-              "projectPath": "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Repo\\LinkDevelopmentWorkshop.Repo.csproj"
+            "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Repo\\LinkDevelopmentWorkshop.Repo.csproj": {
+              "projectPath": "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Repo\\LinkDevelopmentWorkshop.Repo.csproj"
             }
           }
         }

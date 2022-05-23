@@ -3455,11 +3455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Domain\\LinkDevelopmentWorkshop.Domain.csproj",
+      "projectUniqueName": "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Domain\\LinkDevelopmentWorkshop.Domain.csproj",
       "projectName": "LinkDevelopmentWorkshop.Domain",
-      "projectPath": "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Domain\\LinkDevelopmentWorkshop.Domain.csproj",
+      "projectPath": "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Domain\\LinkDevelopmentWorkshop.Domain.csproj",
       "packagesPath": "C:\\Users\\n.samy\\.nuget\\packages\\",
-      "outputPath": "E:\\InterViews\\LinkDevelopment\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Domain\\obj\\",
+      "outputPath": "E:\\InterViews\\LinkDevWorkShop\\LinkDevelopmentWorkshop\\LinkDevelopmentWorkshop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
