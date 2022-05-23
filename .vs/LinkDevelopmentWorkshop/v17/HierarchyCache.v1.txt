@@ -1,0 +1,327 @@
+﻿++Solution 'LinkDevelopmentWorkshop' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:LinkDevelopmentWorkshop.sln
+++LinkDevelopmentWorkshop
+i:{00000000-0000-0000-0000-000000000000}:LinkDevelopmentWorkshop
+++Connected Services 
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:>672
+++Dependencies
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:>671
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>463
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:>513
+i:{74405542-292c-4195-9861-e8829016304d}:>514
+++Analyzers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:analyzers
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:analyzers
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:analyzers
+i:{74405542-292c-4195-9861-e8829016304d}:analyzers
+++Frameworks
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:frameworks
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:frameworks
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:frameworks
+i:{74405542-292c-4195-9861-e8829016304d}:frameworks
+++Packages
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:packages
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:packages
+++Projects
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:projects
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:projects
+i:{74405542-292c-4195-9861-e8829016304d}:projects
+++LinkDevelopmentWorkshop.Application
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\linkdevelopmentworkshop.application.csproj
+i:{00000000-0000-0000-0000-000000000000}:LinkDevelopmentWorkshop.Application
+++Properties
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\properties\
+++Controllers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\controllers\
+++ModelDtos
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\
+++Security
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\security\
+++Helpers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\security\helpers\
+++SecurityStartupHelpers.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\security\helpers\securitystartuphelpers.cs
+++IOC
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\security\ioc\
+++SecurityCustomConstants.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\security\ioc\securitycustomconstants.cs
+++SecurityDependencyInjection.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\security\ioc\securitydependencyinjection.cs
+++TokenAuthenticationHandler.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\security\ioc\tokenauthenticationhandler.cs
+++TokenAuthenticationOptions.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\security\ioc\tokenauthenticationoptions.cs
+++Tokens
+++JWT
+++JwtUtilities.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\support\jwtutilities.cs
+++appsettings.json
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\appsettings.json
+++Program.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\program.cs
+++WeatherForecast.cs
+++No service dependencies discovered
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:>673
+++Microsoft.AspNetCore.Analyzers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{74405542-292c-4195-9861-e8829016304d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{74405542-292c-4195-9861-e8829016304d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{74405542-292c-4195-9861-e8829016304d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{74405542-292c-4195-9861-e8829016304d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\users\n.samy\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.4.22229.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:c:\users\n.samy\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.4.22229.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:c:\users\n.samy\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.4.22229.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{74405542-292c-4195-9861-e8829016304d}:c:\users\n.samy\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.4.22229.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\users\n.samy\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-preview.4.22229.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:c:\users\n.samy\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-preview.4.22229.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:c:\users\n.samy\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-preview.4.22229.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{74405542-292c-4195-9861-e8829016304d}:c:\users\n.samy\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-preview.4.22229.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{74405542-292c-4195-9861-e8829016304d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\microsoft.netcore.app
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\microsoft.netcore.app
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\microsoft.netcore.app
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.5)
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:>704
+++launchSettings.json
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\properties\launchsettings.json
+++JwtTokensController.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\controllers\jwttokenscontroller.cs
+++ProductController.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\controllers\productcontroller.cs
+++WeatherForecastController.cs
+++AddProductRequestDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\addproductrequestdto.cs
+++GetProductsResponseDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\getproductsresponsedto.cs
+++LoginDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\logindto.cs
+++ProductsDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\productsdto.cs
+++RegisterRequestDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\registerrequestdto.cs
+++appsettings.Development.json
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\appsettings.development.json
+++LinkDevelopmentWorkshop.Domain
+i:{00000000-0000-0000-0000-000000000000}:LinkDevelopmentWorkshop.Domain
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\linkdevelopmentworkshop.domain.csproj
+++Entities
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\entities\
+++Enums
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\enums\
+++Category.cs
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\entities\category.cs
+++Order.cs
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\entities\order.cs
+++Product.cs
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\entities\product.cs
+++Role.cs
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\entities\role.cs
+++User.cs
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\entities\user.cs
+++CategoryTypes.cs
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\enums\categorytypes.cs
+++RoleTypes.cs
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.domain\enums\roletypes.cs
+++BCrypt.Net-Core (1.6.0)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>684
+++FluentValidation.AspNetCore (11.0.1)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>683
+++MediatR (10.0.1)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>686
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>688
+++Microsoft.EntityFrameworkCore (7.0.0-preview.4.22229.2)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>680
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.0-preview.4.22229.2)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>681
+++Microsoft.EntityFrameworkCore.Tools (7.0.0-preview.4.22229.2)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>687
+++Swashbuckle.AspNetCore (6.2.3)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>682
+++Swashbuckle.AspNetCore.Swagger (6.2.3)
+i:{3ccfe2b2-ed13-46f8-a50a-230edc0a3a78}:>685
+++LinkDevelopmentWorkshop.Repo
+i:{00000000-0000-0000-0000-000000000000}:LinkDevelopmentWorkshop.Repo
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\linkdevelopmentworkshop.repo.csproj
+++Context
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\context\
+++CustomRepo
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\
+++GenericRepo
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\genericrepo\
+++UnitOfWork
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\unitofwork\
+++ApplicationDBContext.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\context\applicationdbcontext.cs
+++IOrderRepository.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\iorderrepository.cs
+++IProductRepository.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\iproductrepository.cs
+++IUserRepository.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\iuserrepository.cs
+++OrderRepository.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\orderrepository.cs
+++ProductRepository.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\productrepository.cs
+++UserRepository.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\userrepository.cs
+++IRepositoryBase.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\genericrepo\irepositorybase.cs
+++RepositoryBase.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\genericrepo\repositorybase.cs
+++IUnitOfWork.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\unitofwork\iunitofwork.cs
+++UnitOfWork.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\unitofwork\unitofwork.cs
+++Constants
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\constants\
+++AuthorizationPolicies.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\constants\authorizationpolicies.cs
+++Class1.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\constants\class1.cs
+++CustomRoles.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\constants\customroles.cs
+++Localization
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\localization\
+++Products
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\
+++Services
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\services\
+++JwtService.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\services\jwtservice.cs
+++Support
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\support\
+++Utilities.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\support\utilities.cs
+++Users
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\
+++Commands
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\commands\
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\commands\
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\commands\
+++Queries
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\queries\
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\queries\
+++GetUser
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\queries\getuser\
+++GetUserQuery.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\queries\getuser\getuserquery.cs
+++GetUserQueryHandler.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\queries\getuser\getuserqueryhandler.cs
+++GetUserResponse.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\queries\getuser\getuserresponse.cs
+++DependencyInjection.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\dependencyinjection.cs
+++Resources.ar.resx
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\localization\resources.ar.resx
+++Resources.resx
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\localization\resources.resx
+++CreateUser
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\commands\createuser\
+++Resources.Designer.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\localization\resources.designer.cs
+++CreateProduct
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\commands\createproduct\
+++GetProducts
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\getproducts\
+++CreateUserCommand.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\commands\createuser\createusercommand.cs
+++CreateUserCommandHandler.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\commands\createuser\createusercommandhandler.cs
+++CreateUserCommandValidator.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\commands\createuser\createusercommandvalidator.cs
+++UserResponse.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\users\commands\createuser\userresponse.cs
+++CreateProductCommand.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\commands\createproduct\createproductcommand.cs
+++CreateProductCommandHandler.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\commands\createproduct\createproductcommandhandler.cs
+++CreateProductResponse.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\commands\createproduct\createproductresponse.cs
+++GetProductQueryResponse.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\getproducts\getproductqueryresponse.cs
+++GetProductsQuery.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\getproducts\getproductsquery.cs
+++GetProductsQueryHandler.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\getproducts\getproductsqueryhandler.cs
+++GetProducts - Copy
+++GetCategories
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\getcategories\
+++GeCategoriesQueryResponse.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\getcategories\gecategoriesqueryresponse.cs
+++GetCategoriesQuery.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\getcategories\getcategoriesquery.cs
+++ICategoryRepository.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\icategoryrepository.cs
+++CategoryRepository.cs
+i:{5100ccd7-6c3d-4e6d-b585-ceb42d061aa3}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.repo\customrepo\categoryrepository.cs
+++GetCategoriesQueryHandler.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\products\queries\getcategories\getcategoriesqueryhandler.cs
+++GetCategoriesResponseDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\getcategoriesresponsedto.cs
+++CategoryDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\categorydto.cs
+++OrderController.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\controllers\ordercontroller.cs
+++AddOrderRequestDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\addorderrequestdto.cs
+++NewFolder
+++Orders
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\
+++CreateOrderCommand.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\commands\createorder\createordercommand.cs
+++CreateOrderCommandResponse.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\commands\createorder\createordercommandresponse.cs
+++CreateOrderCommandHandler.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\commands\createorder\createordercommandhandler.cs
+++CreateOrder
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\commands\createorder\
+++GetOrders.cs
+++GetOrdersResponse.cs
+++GetOrders
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\queries\getorders\
+++GetOrdersQueryResponse.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\queries\getorders\getordersqueryresponse.cs
+++GetOrdersQuery.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\queries\getorders\getordersquery.cs
+++GetOrdersQueryHandler.cs
+i:{74405542-292c-4195-9861-e8829016304d}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop.application\orders\queries\getorders\getordersqueryhandler.cs
+++GetOrdersResponseDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\getordersresponsedto.cs
+++OrderDto.cs
+i:{a17d70c6-64fd-44a6-93e3-02f4ee3da10a}:e:\interviews\linkdevelopment\linkdevelopmentworkshop\linkdevelopmentworkshop\modeldtos\orderdto.cs

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31827196-ac29-4f4e-8871-48782de48f04": {
+      "ProjectGuid": "31827196-ac29-4f4e-8871-48782de48f04",
+      "DisplayName": "LinkDevelopmentWorkshop",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3ccfe2b2-ed13-46f8-a50a-230edc0a3a78": {
+      "ProjectGuid": "3ccfe2b2-ed13-46f8-a50a-230edc0a3a78",
+      "DisplayName": "LinkDevelopmentWorkshop.Domain",
+      "ColorIndex": 1
+    },
+    "cdc45989-791c-46b7-9837-f303ff1e1fc0": {
+      "ProjectGuid": "cdc45989-791c-46b7-9837-f303ff1e1fc0",
+      "DisplayName": "LinkDevelopmentWorkshop.Repo",
+      "ColorIndex": 2
+    },
+    "74405542-292c-4195-9861-e8829016304d": {
+      "ProjectGuid": "74405542-292c-4195-9861-e8829016304d",
+      "DisplayName": "LinkDevelopmentWorkshop.Application",
+      "ColorIndex": 3
+    },
+    "5100ccd7-6c3d-4e6d-b585-ceb42d061aa3": {
+      "ProjectGuid": "5100ccd7-6c3d-4e6d-b585-ceb42d061aa3",
+      "DisplayName": "LinkDevelopmentWorkshop.Repo",
+      "ColorIndex": 4
+    },
+    "a17d70c6-64fd-44a6-93e3-02f4ee3da10a": {
+      "ProjectGuid": "a17d70c6-64fd-44a6-93e3-02f4ee3da10a",
+      "DisplayName": "LinkDevelopmentWorkshop",
+      "ColorIndex": 5
+    },
+    "f7b202f9-95f6-430e-adf0-c44254e8ae2d": {
+      "ProjectGuid": "f7b202f9-95f6-430e-adf0-c44254e8ae2d",
+      "DisplayName": "Core.Framework6",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

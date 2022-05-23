@@ -1,0 +1,15 @@
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\LinkDevelopmentWorkshop.Repo.csproj.AssemblyReference.cache
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\LinkDevelopmentWorkshop.Repo.GeneratedMSBuildEditorConfig.editorconfig
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\LinkDevelopmentWorkshop.Repo.AssemblyInfoInputs.cache
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\LinkDevelopmentWorkshop.Repo.AssemblyInfo.cs
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\LinkDevelopmentWorkshop.Repo.csproj.CoreCompileInputs.cache
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\bin\Debug\net6.0\LinkDevelopmentWorkshop.Repo.deps.json
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\bin\Debug\net6.0\LinkDevelopmentWorkshop.Repo.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\bin\Debug\net6.0\ref\LinkDevelopmentWorkshop.Repo.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\bin\Debug\net6.0\LinkDevelopmentWorkshop.Repo.pdb
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\bin\Debug\net6.0\LinkDevelopmentWorkshop.Domain.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\bin\Debug\net6.0\LinkDevelopmentWorkshop.Domain.pdb
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\LinkDevelopmentWorkshop.Repo.csproj.CopyComplete
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\LinkDevelopmentWorkshop.Repo.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\ref\LinkDevelopmentWorkshop.Repo.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Repo\obj\Debug\net6.0\LinkDevelopmentWorkshop.Repo.pdb

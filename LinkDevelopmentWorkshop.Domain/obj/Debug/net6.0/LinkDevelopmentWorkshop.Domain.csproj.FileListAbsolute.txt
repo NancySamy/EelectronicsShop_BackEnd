@@ -1,0 +1,14 @@
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\bin\Debug\net6.0\LinkDevelopmentWorkshop.Domain.deps.json
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\bin\Debug\net6.0\LinkDevelopmentWorkshop.Domain.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\bin\Debug\net6.0\ref\LinkDevelopmentWorkshop.Domain.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\bin\Debug\net6.0\LinkDevelopmentWorkshop.Domain.pdb
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\LinkDevelopmentWorkshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\LinkDevelopmentWorkshop.Domain.AssemblyInfoInputs.cache
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\LinkDevelopmentWorkshop.Domain.AssemblyInfo.cs
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\LinkDevelopmentWorkshop.Domain.csproj.CoreCompileInputs.cache
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\LinkDevelopmentWorkshop.Domain.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\ref\LinkDevelopmentWorkshop.Domain.dll
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\LinkDevelopmentWorkshop.Domain.pdb
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\bin\Debug\net6.0\LinkDevelopmentWorkshop.Domain.runtimeconfig.json
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\LinkDevelopmentWorkshop.Domain.csproj.AssemblyReference.cache
+E:\InterViews\LinkDevelopment\LinkDevelopmentWorkshop\LinkDevelopmentWorkshop.Domain\obj\Debug\net6.0\LinkDevelopmentWorkshop.Domain.genruntimeconfig.cache
